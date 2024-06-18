@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/yahboom/yahboomcar_ws/install/yahboom_web_savmap_interfaces/include/**",
+        "/home/yahboom/yahboomcar_ws/install/robot_localization/include/**",
+        "/home/yahboom/yahboomcar_ros2_ws/yahboomcar_ws/install/pkg_interfaces/include/**",
+        "/home/yahboom/imu_ws/install/imu_filter_madgwick/include/**",
+        "/home/yahboom/imu_ws/install/imu_complementary_filter/include/**",
+        "/home/yahboom/gmapping_ws/install/openslam_gmapping/include/**",
+        "/opt/ros/humble/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
